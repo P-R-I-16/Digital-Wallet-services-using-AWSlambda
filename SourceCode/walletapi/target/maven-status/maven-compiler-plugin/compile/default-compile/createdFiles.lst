@@ -1,0 +1,5 @@
+model\TransactionRequest.class
+model\TransactionResponse.class
+com\wallet\aws\walletapi\RegisterAPI.class
+model\RegisterResponce.class
+model\RegisterRequest.class
